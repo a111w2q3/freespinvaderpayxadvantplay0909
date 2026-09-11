@@ -8,7 +8,7 @@
         .flex-justify-center { justify-content: center; }
         .fa-align-center { align-items: center; }
 
-        #Pegasus__modal_1{padding:8px;border-radius:36px;background-size:100% 100%; background-position:top center;}
+#Pegasus__modal_1 { padding: 8px; border-radius: 36px; background-size: 100% 100%; background-position: top center; border-radius: 0; background-color: transparent; }
         .Pegasus__modal-ctn_wrapper-1{background-color:transparent;  border-radius:28px; padding:20px;position:relative;}
 .coin1 {
     position: absolute;
@@ -93,7 +93,7 @@
     justify-content: center;
     gap: 0;
     position: relative;
-    background:  url("../image/code-bg.png") no-repeat;
+    background:  url("../image/code-bg1.png") no-repeat;
     background-size:100% 100%;
 }
 #promoCode {
